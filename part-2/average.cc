@@ -1,7 +1,7 @@
 // Justin Carranza
 // jmcarranza1@csu.fullerton.edu
 // @justin-carranza
-// Partners:
+// Partners: @C-Chavda
 
 #include <iostream>
 #include <string>
